@@ -4,7 +4,8 @@ from logging import basicConfig
 
 basicConfig()
 
-bot = Bot(token="Твой токен", parse_mode="HTML")
+bot = Bot(token="7946783121:AAEG_lFdz4ykgj4r-6dVsafw-_C6OlZA7H4
+", parse_mode="HTML")
 dp = Dispatcher(bot)
 txt = """<b>Вы приняты в канал</b>"""
 
